@@ -1,6 +1,6 @@
-# 📊 Data Science & AI Portfolio – Arun Palanoor
+# 📊 Data Science & AI Projects – Arun Palanoor
 
-Welcome to my curated portfolio of data science and artificial intelligence projects, developed as part of the University of Cambridge ICE Level 7 Certificate in Data Science with Machine Learning and AI. This repository showcases a range of applied projects that reflect my journey through statistical modeling, machine learning, data visualization, and ethical AI design.
+Welcome to my curated portfolio of data science and artificial intelligence projects, developed as part of the University of Cambridge ICE Level 7 Certificate in Data Science with Machine Learning and AI. This repository showcases a range of applied projects that reflect my journey through statistical modeling, machine learning, data visualization, and ethical AI design. This repository also contains few personal projects which I experimented with as a part of enhancing and refreshing my knowledge.
 
 Each project is designed to solve real-world problems using modern data science techniques, with a strong emphasis on reproducibility, interpretability, and impact.
 
