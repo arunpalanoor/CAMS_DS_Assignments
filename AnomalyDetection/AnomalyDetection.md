@@ -1,7 +1,12 @@
 # Anomaly Detection
 
-An observation, that significantly deviates from a dataset's expected pattern or distribution is reffered to as an Anomaly or Outlier.
-Anomaly detection has significant real-world impact. This repository contains my experimental use cases using various anomaly detection methods.
+An anomaly-also known as an outlier-is an observation that significantly deviates from the expected pattern or statistical distribution within a dataset. Detecting such anomalies is critical in real-world applications, where they can either obscure insights or reveal hidden signals.
+From a strategic standpoint, anomalies can be interpreted in two distinct ways:
+- As disruptive outliers: These can distort analytical models, compromise data integrity, and hinder reliable decision-making.
+- As informative signals: When treated as meaningful deviations, anomalies can uncover latent patterns, flag emergent risks, or predict unexpected behaviors—transforming noise into actionable intelligence.
+
+This repository contains my experimental use cases using various anomaly detection methods.
+Datasets are sourced from https://www.kaggle.com/
 
 ## Real world use cases:
 
@@ -33,4 +38,21 @@ Anomaly detection has significant real-world impact. This repository contains my
 
 ## Statistical Methods
 
-## Machine Learning Methods
+### Z-Score
+Z score tells how far the observation is compared to the mean
+- Use it only for Gaussian distribution
+- Only for single variable/feature
+- Cannot be used for Multi modal (cases with more than 1 class of data)
+- Cannot be used for skewed data set
+Sample projects:
+
+
+### IQR (Interquartile range)
+
+## Unsupervised Machine Learning Algorithms
+
+### k-means clustering
+
+### Support vector machines (SVM)
+
+### Isolation Forest
