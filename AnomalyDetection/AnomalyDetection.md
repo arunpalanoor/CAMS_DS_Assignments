@@ -45,6 +45,7 @@ Z score tells how far the observation is compared to the mean
 - Cannot be used for Multi modal (cases with more than 1 class of data)
 - Cannot be used for skewed data set
 Sample projects:
+https://github.com/arunpalanoor/CAMS_DS_Assignments/blob/main/AnomalyDetection/AutomotiveEngineHealth_Analysis.ipynb
 
 
 ### IQR (Interquartile range)
