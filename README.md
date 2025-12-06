@@ -107,7 +107,7 @@ This portfolio is shared under the MIT License. Educational datasets and models 
 
 I'm always open to feedback, collaboration, and community engagement. If you're interested in discussing these projects, contributing to open-source tools, or exploring smart factory applications, feel free to reach out:
 
-- 📧 Email: arun.palanoor@example.com
+- 📧 Email: Available on request
 - 🌐 LinkedIn: [linkedin.com/in/arunpalanoor](https://linkedin.com/in/arunpalanoor)
 - 🛠 GitHub: [github.com/arunpalanoor](https://github.com/arunpalanoor)
 
